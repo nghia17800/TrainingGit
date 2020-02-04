@@ -1,9 +1,5 @@
 den ca con khi cung biet su dung git
-<<<<<<< HEAD
 levannghia
 lan thu 5
-
-=======
 levannghia tiep tuc sua file nay
 thay doi lan thu 4 
->>>>>>> 7bc74cdf3e4573dec9b69a3348b4791d21523c3f
